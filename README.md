@@ -1,0 +1,1 @@
+This repo contains lessons on my journer to becomming a Front End Expert!
