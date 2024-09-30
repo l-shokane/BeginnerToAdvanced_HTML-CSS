@@ -1,0 +1,10 @@
+.par1,
+.yes,
+.no {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.par1 {
+    width: 30%;
+}

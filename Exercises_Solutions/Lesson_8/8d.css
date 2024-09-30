@@ -1,0 +1,33 @@
+.first,
+.last {
+    font-size: 16px;
+    display: inline-block;
+    width: 19%;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 2px;
+    border: 1px solid #ccc;
+}
+.email {
+    font-size: 16px;
+    display: block;
+    margin: 2px;
+    width: 42%;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.sign-up{
+    display: block;
+    font-size: 16px;
+    text-align: center;
+    width: 45%;
+    border-radius: 8px;
+    padding: 12px;
+    margin-top:5px;
+    margin-right:5px;
+    margin-left: 2px;
+    color: white;
+    border: none;
+    background-color: rgba(18, 112, 206, 0.897);
+}
