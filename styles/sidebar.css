@@ -1,0 +1,8 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px; /* The size must be the same as the height of the header */
+    background-color: white;
+    width: 72px;
+}
